@@ -2,7 +2,8 @@ export default function App() {
   return (
     <div className="bg-[#16161A] h-[100vh] text-white items-center content-center p-[20px] ">
       <section className="absolute top-5 flex flex-row gap-5 text-[22px]">
-        <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrgmQMpVQZPGZgxcNzCZgbBnbTNrFSfGHpsRDHxkxtfbCFSMsGDcPThbnrQgxrRPrRWSRL" className="text-white opacity-25 hover:opacity-100">
+        <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrgmQMpVQZPGZgxcNzCZgbBnbTNrFSfGHpsRDHxkxtfbCFSMsGDcPThbnrQgxrRPrRWSRL"
+          className="text-white opacity-25 hover:opacity-100">
           Email
         </a>
         <a href="https://www.linkedin.com/in/rafi-asyam-a5bb98289/" className="text-white opacity-25 hover:opacity-100">
@@ -26,6 +27,11 @@ export default function App() {
             Here I want to present several projects that have been created while I was looking for work as a Web Frontend Developer/Frontend Developer,
             here I also prefer to use Reactjs to build a website and framework. Currently I am familiar with Tailwindcss and MUi (Material UI).
           </p>
+        </section>
+      </section>
+      <section className="flex flex-row">
+        <section className="w-full text-[22px] text-center">
+          <h1>THEPROJECTS</h1>
         </section>
       </section>
     </div>
