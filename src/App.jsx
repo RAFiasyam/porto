@@ -1,7 +1,7 @@
 export default function App() {
   return (
     <div className="bg-[#16161A] h-[100vh] text-white items-center content-center p-[20px] ">
-      <section className="absolute top-5 flex flex-row gap-5">
+      <section className="absolute top-5 flex flex-row gap-5 text-[22px]">
         <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrgmQMpVQZPGZgxcNzCZgbBnbTNrFSfGHpsRDHxkxtfbCFSMsGDcPThbnrQgxrRPrRWSRL" className="text-white opacity-25 hover:opacity-100">
           Email
         </a>
