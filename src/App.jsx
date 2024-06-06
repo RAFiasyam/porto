@@ -1,3 +1,7 @@
+import { Coa } from "./components/coa";
+
+
+
 export default function App() {
   return (
     <div className="bg-[#16161A] h-[600vh] flex flex-col gap-[90px] text-white items-center content-center p-[20px] ">
@@ -33,8 +37,9 @@ export default function App() {
       </section>
       <section className="flex flex-col">
         <section className="w-full text-[22px] text-center">
-          <h1 className="text-[100px] font-bold">THEPROJECTS</h1>
+          <h1 className="text-[145px] font-bold">THEPROJECTS</h1>
         </section>
+        <Coa />
       </section>
     </div>
   )
