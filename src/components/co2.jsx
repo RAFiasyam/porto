@@ -8,7 +8,7 @@ export class Co2 extends Component {
                     <h1 className="text-[24px] font-bold">Project Name!!!!</h1>
                     <p className="text-[24px] font-bold">02</p>
                 </section>
-                <section className="w-[500px] h-fit">
+                <section className="transform w-[500px] h-fit transition duration-500 hover:scale-125">
                     <img src="images/default.png" alt="" />
                 </section>
                 <section className="w-[500px] h-fit">
