@@ -1,12 +1,12 @@
 import React, { Component } from "react";
 
-export class Co1 extends Component {
+export class Co2 extends Component {
     render() {
         return (
             <div className="w-fit flex flex-col gap-[20px]">
                 <section className="flex flex-row gap-[285px]">
                     <h1 className="text-[24px] font-bold">Project Name!!!!</h1>
-                    <p className="text-[24px] font-bold">01</p>
+                    <p className="text-[24px] font-bold">02</p>
                 </section>
                 <section className="w-[500px] h-fit">
                     <img src="images/default.png" alt="" />
