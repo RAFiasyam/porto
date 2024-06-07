@@ -1,4 +1,4 @@
-import { Coa } from "./components/coa";
+import { Co1 } from "./components/co1";
 
 
 
@@ -39,7 +39,7 @@ export default function App() {
         <section className="w-full text-[22px] text-center">
           <h1 className="text-[145px] font-bold">THEPROJECTS</h1>
         </section>
-        <Coa />
+        <Co1 />
       </section>
     </div>
   )
