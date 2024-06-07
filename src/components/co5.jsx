@@ -17,7 +17,7 @@ export class Co5 extends Component {
                     <img src="images/default.png" alt="" />
                 </section>
                 <section className="w-[500px] h-fit">
-                    <p className="text-[#ABD1C6] text-justify text-[18px]">
+                    <p className="text-[#94a1b2] text-justify text-[18px]">
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                         Temporibus quibusdam quaerat quos corrupti perferendis aperiam accusantium officiis magnam inventore,
                         tempora deleniti esse nostrum voluptatum. Numquam voluptate labore dolores laudantium eos.
