@@ -5,7 +5,12 @@ export class Co3 extends Component {
         return (
             <div className="w-fit flex flex-col gap-[20px]">
                 <section className="flex flex-row gap-[285px]">
-                    <h1 className="text-[24px] font-bold">Project Name!!!!</h1>
+                    <a href="https://github.com/RAFiasyam/porto">
+                        <h1 className="text-[24px] font-bold group relative w-max" >
+                            <span>Project Name!!!!</span>
+                            <span class="absolute -bottom-1 left-0 w-0 transition-all h-0.5 bg-white group-hover:w-full"></span>
+                        </h1>
+                    </a>
                     <p className="text-[24px] font-bold">03</p>
                 </section>
                 <section className="transform w-[500px] h-fit transition duration-500 hover:scale-125">
