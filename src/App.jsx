@@ -8,7 +8,7 @@ import { ReactComponent as Logo } from './components/svg/dec.svg';
 
 export default function App() {
   return (
-    <div className="bg-[#16161A] h-[550vh] flex flex-col gap-[90px] text-white items-center content-center p-[20px] overflow-x-none">
+    <div className="bg-[#16161A] h-[390vh] flex flex-col gap-[130px] text-white items-center content-center p-[20px] overflow-x-none sm:w-full">
       <section className="flex flex-col">
         <section className=" flex flex-row gap-5 text-[22px]">
           <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrgmQMpVQZPGZgxcNzCZgbBnbTNrFSfGHpsRDHxkxtfbCFSMsGDcPThbnrQgxrRPrRWSRL"
@@ -25,7 +25,7 @@ export default function App() {
             Instagram
           </a>
         </section>
-        <section className="flex flex-row gap-[30px] pt-[14vh]">
+        <section className="flex flex-col gap-[30px] pt-[14vh] lg:flex-row">
           <section>
             <h1 className="text-[145px] font-bold h-[200px]">RAFIASYAM.</h1>
             <h2 className="text-[70px] h-[70px] text-white opacity-25 hover:opacity-100">Portfolio</h2>
@@ -57,24 +57,6 @@ export default function App() {
             {/* Add according to your needs👌 */}
           </section>
         </section>
-      </section>
-      <section className="overflow-y-none">
-        <section className="absolute left-[480px] top-[540vh] flex flex-row gap-5 text-[22px]">
-          <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrgmQMpVQZPGZgxcNzCZgbBnbTNrFSfGHpsRDHxkxtfbCFSMsGDcPThbnrQgxrRPrRWSRL"
-            className="text-white opacity-25 hover:opacity-100">
-            Email
-          </a>
-          <a href="https://www.linkedin.com/in/rafi-asyam-a5bb98289/" className="text-white opacity-25 hover:opacity-100">
-            Linkedin
-          </a>
-          <a href="https://github.com/RAFiasyam" className="text-white opacity-25 hover:opacity-100">
-            Github
-          </a>
-          <a href="https://www.instagram.com/rafiasyam__/" className="text-white opacity-25 hover:opacity-100">
-            Instagram
-          </a>
-        </section>
-        <Logo className="relative left-[0px] w-[185vh] bottom-[-115px]" />
       </section>
     </div>
   )
