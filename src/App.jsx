@@ -44,15 +44,15 @@ export default function App() {
           <h1 className="text-[120px] font-bold xl:text-[145px]">WORK</h1>
         </section>
         <section className="flex flex-col items-center gap-[30px]">
-          <section className="flex flex-col gap-[90px] lg:flex-row">
+          <section className="flex flex-col gap-[120px] lg:flex-row">
             <Co1 />
             <Co2 />
           </section>
-          <section className="flex flex-col gap-[90px] lg:flex-row">
+          <section className="flex flex-col gap-[120px] lg:flex-row">
             <Co3 />
             <Co4 />
           </section>
-          <section className="flex flex-col gap-[90px] lg:flex-row">
+          <section className="flex flex-col gap-[120px] lg:flex-row">
             <Co5 />
             {/* Add according to your needs👌 */}
           </section>
