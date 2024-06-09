@@ -27,11 +27,11 @@ export default function App() {
         </section>
         <section className="flex flex-col gap-[30px] pt-[14vh] xl:flex-row">
           <section>
-            <h1 className="text-[120px]  font-bold h-[200px] xl:text-[145px]">RAFIASYAM.</h1>
-            <h2 className="text-[50px] h-[70px] text-white opacity-25 hover:opacity-100 xl:text-[70px]">Portfolio</h2>
-            <h2 className="text-[50px] text-white opacity-25 hover:opacity-100 xl:text-[70px]">Web Frontend Developer</h2>
+            <h1 className="text-[100px] font-bold h-[200px] xl:text-[145px] md:text-[120px]">RAFIASYAM.</h1>
+            <h2 className="text-[45px] h-[70px] text-white opacity-25 hover:opacity-100 xl:text-[70px] md:text-[60px]">Portfolio</h2>
+            <h2 className="text-[45px] text-white opacity-25 hover:opacity-100 xl:text-[70px] md:text-[60px]">Web Frontend Developer</h2>
           </section>
-          <section className="w-[700px] h-fit text-[22px] text-justify items-center content-center text-[#94A1B2] xl:w-[350px] xl:h-[410px]">
+          <section className="w-[600px] h-fit text-[22px] text-justify items-center content-center text-[#94A1B2] xl:w-[350px] xl:h-[410px] md:w-[720px]">
             <p>
               Here I want to present several projects that have been created while I was looking for work as a Web Frontend Developer/Frontend Developer,
               here I also prefer to use Reactjs to build a website and framework. Currently I am familiar with Tailwindcss and MUi (Material UI).
