@@ -27,7 +27,7 @@ export default function App() {
         </section>
         <section className="flex flex-col gap-[30px] pt-[14vh] xl:flex-row">
           <section>
-            <h1 className="text-[100px] font-bold h-[200px] xl:text-[145px] md:text-[120px]">RAFIASYAM.</h1>
+            <h1 className="text-[100px] font-bold h-[130px] xl:text-[145px] md:text-[120px] md:h-[145px] lg:h-[180px]">RAFIASYAM.</h1>
             <h2 className="text-[45px] h-[70px] text-white opacity-25 hover:opacity-100 xl:text-[70px] md:text-[60px]">Portfolio</h2>
             <h2 className="text-[45px] text-white opacity-25 hover:opacity-100 xl:text-[70px] md:text-[60px]">Web Frontend Developer</h2>
           </section>
