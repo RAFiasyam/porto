@@ -3,7 +3,12 @@ import { Co2 } from "./components/work/co2";
 import { Co3 } from "./components/work/co3";
 import { Co4 } from "./components/work/co4";
 import { Co5 } from "./components/work/co5";
-
+// ----------------------------------------
+import { Coc1 } from "./components/cetificate/coc1";
+import { Coc2 } from "./components/cetificate/coc2";
+import { Coc3 } from "./components/cetificate/coc3";
+import { Coc4 } from "./components/cetificate/coc4";
+import { Coc5 } from "./components/cetificate/coc5";
 
 
 export default function App() {
@@ -54,6 +59,25 @@ export default function App() {
           </section>
           <section className="flex flex-col gap-[120px] lg:flex-row">
             <Co5 />
+            {/* Add according to your needs👌 */}
+          </section>
+        </section>
+      </section>
+      <section className="flex flex-col w-full gap-[25px]">
+        <section className="w-full text-[22px] text-center">
+          <h1 className="text-[95px] font-bold xl:text-[145px] md:text-[120px]">CERTIFICATE</h1>
+        </section>
+        <section className="flex flex-col items-center gap-[30px]">
+          <section className="flex flex-col gap-[120px] lg:flex-row">
+            <Coc1 />
+            <Coc2 />
+          </section>
+          <section className="flex flex-col gap-[120px] lg:flex-row">
+            <Coc3 />
+            <Coc4 />
+          </section>
+          <section className="flex flex-col gap-[120px] lg:flex-row">
+            <Coc5 />
             {/* Add according to your needs👌 */}
           </section>
         </section>
