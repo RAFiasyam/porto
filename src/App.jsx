@@ -1,3 +1,6 @@
+import React from "react";
+import AnimatedCursor from "react-animated-cursor";
+
 import { Co1 } from "./components/work/co1";
 import { Co2 } from "./components/work/co2";
 import { Co3 } from "./components/work/co3";
@@ -14,6 +17,16 @@ import { Coc5 } from "./components/cetificate/coc5";
 export default function App() {
   return (
     <div className="bg-[#16161A] h-fit w-fit flex flex-col gap-[130px] text-white items-center content-center p-[20px] overflow-x-none sm:w-full xl:w-full">
+      <AnimatedCursor
+        color='255, 255, 255'
+        innerSize={8}
+        outerSize={35}
+        innerScale={1}
+        outerScale={1.7}
+        outerStyle={{
+          mixBlendMode: 'exclusion'
+        }}
+      />
       <section className="flex flex-col">
         <section className=" flex flex-row gap-5 text-[22px]">
           <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrgmQMpVQZPGZgxcNzCZgbBnbTNrFSfGHpsRDHxkxtfbCFSMsGDcPThbnrQgxrRPrRWSRL"
