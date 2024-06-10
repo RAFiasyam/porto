@@ -65,7 +65,7 @@ export default function App() {
       </section>
       <section className="flex flex-col w-full gap-[25px]">
         <section className="w-full text-[22px] text-center">
-          <h1 className="text-[120px] font-bold xl:text-[145px]">CERTIFICATE</h1>
+          <h1 className="text-[95px] font-bold xl:text-[145px] md:text-[120px]">CERTIFICATE</h1>
         </section>
         <section className="flex flex-col items-center gap-[30px]">
           <section className="flex flex-col gap-[120px] lg:flex-row">
