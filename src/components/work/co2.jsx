@@ -13,7 +13,7 @@ export class Co2 extends Component {
                     </a>
                     <p className="text-[24px] font-bold">02</p>
                 </section>
-                <section className="transform w-[610px] h-fit transition duration-500 hover:scale-125 xl:w-[500px] sm:w-[410px]">
+                <section className="transform w-[610px] h-fit transition duration-500 hover:none md:hover:scale-125 xl:w-[500px] sm:w-[410px]">
                     <img src="images/default.png" alt="" />
                 </section>
                 <section className="w-[610px] h-fit xl:w-[500px] sm:w-[410px]">
