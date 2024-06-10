@@ -1,9 +1,9 @@
-import { Co1 } from "./components/co1";
-import { Co2 } from "./components/co2";
-import { Co3 } from "./components/co3";
-import { Co4 } from "./components/co4";
-import { Co5 } from "./components/co5";
-import { ReactComponent as Logo } from './components/svg/dec.svg';
+import { Co1 } from "./components/work/co1";
+import { Co2 } from "./components/work/co2";
+import { Co3 } from "./components/work/co3";
+import { Co4 } from "./components/work/co4";
+import { Co5 } from "./components/work/co5";
+
 
 
 export default function App() {
