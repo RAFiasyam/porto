@@ -4,7 +4,7 @@ export class Coc5 extends Component {
     render() {
         return (
             <div className="w-fit flex flex-col gap-[20px]">
-                <section className="flex flex-row gap-[400px] xl:gap-[250px] sm:gap-[160px]">
+                <section className="flex flex-row gap-[360px] xl:gap-[250px] sm:gap-[160px] sm:gap-[160px]">
                     <a href="https://github.com/RAFiasyam/porto">
                         <h1 className="text-[24px] font-bold group relative w-max" >
                             <span>Certificate Name!!!!</span>
