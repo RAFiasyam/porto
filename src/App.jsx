@@ -95,6 +95,15 @@ export default function App() {
           </section>
         </section>
       </section>
+       <p className="text-[18px] gap-[8px]  group flex flex-row">
+        Made with 🧠 by  
+        <a href="https://github.com/RAFiasyam/porto">
+          <p className="text-[18px] font-italic group relative w-fit" >
+            <span>Rafi Asyam</span>
+            <span class="absolute -bottom-1 left-0 w-0 transition-all h-0.5 bg-white group-hover:w-full"></span>
+          </p>
+        </a>
+      </p>
     </div>
   )
 }
