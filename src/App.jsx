@@ -30,16 +30,16 @@ export default function App() {
       <section className="flex flex-col">
         <section className=" flex flex-row gap-5 text-[22px]">
           <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrgmQMpVQZPGZgxcNzCZgbBnbTNrFSfGHpsRDHxkxtfbCFSMsGDcPThbnrQgxrRPrRWSRL"
-            className="text-white opacity-25 hover:opacity-100">
+            className="text-white text-[30px] sm:text-[24px] opacity-25 hover:opacity-100">
             Email
           </a>
-          <a href="https://www.linkedin.com/in/rafi-asyam-a5bb98289/" className="text-white opacity-25 hover:opacity-100">
+          <a href="https://www.linkedin.com/in/rafi-asyam-a5bb98289/" className="text-white text-[30px] sm:text-[24px] opacity-25 hover:opacity-100">
             Linkedin
           </a>
-          <a href="https://github.com/RAFiasyam" className="text-white opacity-25 hover:opacity-100">
+          <a href="https://github.com/RAFiasyam" className="text-white text-[30px] sm:text-[24px] opacity-25 hover:opacity-100">
             Github
           </a>
-          <a href="https://www.instagram.com/rafiasyam__/" className="text-white opacity-25 hover:opacity-100">
+          <a href="https://www.instagram.com/rafiasyam__/" className="text-white text-[30px] sm:text-[24px] opacity-25 hover:opacity-100">
             Instagram
           </a>
         </section>
@@ -61,16 +61,16 @@ export default function App() {
         <section className="w-full text-[22px] text-center">
           <h1 className="text-[120px] font-bold xl:text-[145px]">WORK</h1>
         </section>
-        <section className="flex flex-col items-center gap-[30px]">
-          <section className="flex flex-col gap-[120px] lg:flex-row">
+        <section className="flex flex-col items-center gap-[50px]">
+          <section className="flex flex-col gap-[50px] lg:flex-row lg:gap-[120px]">
             <Co1 />
             <Co2 />
           </section>
-          <section className="flex flex-col gap-[120px] lg:flex-row">
+          <section className="flex flex-col gap-[50px] lg:flex-row lg:gap-[120px]">
             <Co3 />
             <Co4 />
           </section>
-          <section className="flex flex-col gap-[120px] lg:flex-row">
+          <section className="flex flex-col gap-[50px] lg:flex-row lg:gap-[120px]">
             <Co5 />
             {/* Add according to your needs👌 */}
           </section>
@@ -80,26 +80,26 @@ export default function App() {
         <section className="w-full text-[22px] text-center">
           <h1 className="text-[95px] font-bold xl:text-[145px] md:text-[120px]">CERTIFICATE</h1>
         </section>
-        <section className="flex flex-col items-center gap-[30px]">
-          <section className="flex flex-col gap-[120px] lg:flex-row">
+        <section className="flex flex-col items-center gap-[50px] ">
+          <section className="flex flex-col items-center gap-[50px] lg:flex-row lg:gap-[120px]">
             <Coc1 />
             <Coc2 />
           </section>
-          <section className="flex flex-col gap-[120px] lg:flex-row">
+          <section className="flex flex-col items-center gap-[50px] lg:flex-row lg:gap-[120px]">
             <Coc3 />
             <Coc4 />
           </section>
-          <section className="flex flex-col gap-[120px] lg:flex-row">
+          <section className="flex flex-col items-center gap-[50px] lg:flex-row lg:gap-[120px]">
             <Coc5 />
             {/* Add according to your needs👌 */}
           </section>
         </section>
       </section>
        <p className="text-[18px] gap-[8px]  group flex flex-row">
-        Made with 🧠 by  
-        <a href="https://github.com/RAFiasyam/porto">
+        Made with 💖 by  
+        <a href="https://github.com/RAFiasyam/">
           <p className="text-[18px] font-italic group relative w-fit" >
-            <span>Rafi Asyam</span>
+            <span>Rafi Asyam</span> {/* ⚠️⚠️⚠️Please don't change this creator⚠️⚠️⚠️ */}
             <span class="absolute -bottom-1 left-0 w-0 transition-all h-0.5 bg-white group-hover:w-full"></span>
           </p>
         </a>
