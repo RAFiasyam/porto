@@ -13,6 +13,10 @@ import { Coc3 } from "./components/cetificate/coc3";
 import { Coc4 } from "./components/cetificate/coc4";
 import { Coc5 } from "./components/cetificate/coc5";
 
+// ⚠️
+// You can contact me on WhatsApp at the following number: +62 831-9016-9449
+// You can use this template for your own portfolio website and you can adjust it to your own wishes👌
+
 
 export default function App() {
   return (
