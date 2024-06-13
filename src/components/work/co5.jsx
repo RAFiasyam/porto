@@ -7,7 +7,7 @@ export class Co5 extends Component {
                 <section className="flex flex-row gap-[400px] xl:gap-[285px] sm:gap-[200px]">
                     <a href="https://github.com/RAFiasyam/porto">
                         <h1 className="text-[24px] font-bold group relative w-max" >
-                            <span>Project Name!!!!</span>
+                            <span>Coming Soon!!!!</span>
                             <span class="absolute -bottom-1 left-0 w-0 transition-all h-0.5 bg-white group-hover:w-full"></span>
                         </h1>
                     </a>
