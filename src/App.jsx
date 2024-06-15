@@ -13,6 +13,8 @@ import { Coc2 } from "./components/cetificate/coc2";
 import { Coc3 } from "./components/cetificate/coc3";
 import { Coc4 } from "./components/cetificate/coc4";
 import { Coc5 } from "./components/cetificate/coc5";
+import { Coc6 } from "./components/cetificate/coc6";
+import { Coc7 } from "./components/cetificate/coc7";
 
 
 export default function App() {
@@ -93,6 +95,10 @@ export default function App() {
           </section>
           <section className="flex flex-col items-center gap-[50px] lg:flex-row lg:gap-[120px]">
             <Coc5 />
+            <Coc6 />
+          </section>
+          <section className="flex flex-col items-center gap-[50px] lg:flex-row lg:gap-[120px]">
+            <Coc7 />
             {/* Add according to your needs👌 */}
           </section>
         </section>
