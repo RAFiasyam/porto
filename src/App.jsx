@@ -6,12 +6,15 @@ import { Co2 } from "./components/work/co2";
 import { Co3 } from "./components/work/co3";
 import { Co4 } from "./components/work/co4";
 import { Co5 } from "./components/work/co5";
+import { Co6 } from "./components/work/co6";
 // ----------------------------------------
 import { Coc1 } from "./components/cetificate/coc1";
 import { Coc2 } from "./components/cetificate/coc2";
 import { Coc3 } from "./components/cetificate/coc3";
 import { Coc4 } from "./components/cetificate/coc4";
 import { Coc5 } from "./components/cetificate/coc5";
+import { Coc6 } from "./components/cetificate/coc6";
+import { Coc7 } from "./components/cetificate/coc7";
 
 // ⚠️
 // You can contact me on WhatsApp at the following number: +62 831-9016-9449
@@ -76,8 +79,9 @@ export default function App() {
           </section>
           <section className="flex flex-col gap-[50px] lg:flex-row lg:gap-[120px]">
             <Co5 />
-            {/* Add according to your needs👌 */}
+            <Co6 />
           </section>
+          {/* Add according to your needs👌 */}
         </section>
       </section>
       <section className="flex flex-col w-full gap-[25px]">
@@ -95,12 +99,16 @@ export default function App() {
           </section>
           <section className="flex flex-col items-center gap-[50px] lg:flex-row lg:gap-[120px]">
             <Coc5 />
+            <Coc6 />
+          </section>
+          <section className="flex flex-col items-center gap-[50px] lg:flex-row lg:gap-[120px]">
+            <Coc7 />
             {/* Add according to your needs👌 */}
           </section>
         </section>
       </section>
-       <p className="text-[18px] gap-[8px]  group flex flex-row">
-        Made with 💖 by  
+      <p className="text-[18px] gap-[8px]  group flex flex-row">
+        Made with 💖 by
         <a href="https://github.com/RAFiasyam/">
           <p className="text-[18px] font-italic group relative w-fit" >
             <span>Rafi Asyam</span> {/* ⚠️⚠️⚠️Please don't change this creator⚠️⚠️⚠️ */}
