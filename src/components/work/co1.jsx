@@ -18,9 +18,9 @@ export class Co1 extends Component {
                 </section>
                 <section className="w-[610px] h-fit xl:w-[500px] sm:w-[410px]">
                     <p className="text-[#94a1b2] text-justify text-[20px] sm:text-[18px]">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                        Temporibus quibusdam quaerat quos corrupti perferendis aperiam accusantium officiis magnam inventore,
-                        tempora deleniti esse nostrum voluptatum. Numquam voluptate labore dolores laudantium eos.
+                        During my internship at PT Aero Systems Indonesia, I had the opportunity to contribute to the Garuda Indonesia website revamp project.
+                        It was my first experience working on a real-world project, and I was thrilled to be able to make a meaningful contribution.
+                        The project involved revamping the frontend of the Garuda Indonesia website using React.js and Material-UI.
                     </p>
                 </section>
             </div>

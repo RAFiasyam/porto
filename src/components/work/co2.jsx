@@ -18,9 +18,9 @@ export class Co2 extends Component {
                 </section>
                 <section className="w-[610px] h-fit xl:w-[500px] sm:w-[410px]">
                     <p className="text-[#94a1b2] text-justify text-[20px] sm:text-[18px]">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                        Temporibus quibusdam quaerat quos corrupti perferendis aperiam accusantium officiis magnam inventore,
-                        tempora deleniti esse nostrum voluptatum. Numquam voluptate labore dolores laudantium eos.
+                        During my internship at PT Aero Systems Indonesia, in addition to working on the Garuda Indonesia website revamp,
+                        I was also tasked with revamping the frontend (FE) of the PT Aero Systems website. I dedicated approximately 11 months to both projects.
+                        The Garuda Indonesia web FE revamp was completed in around 6 months, while the PT Aero Systems web project also involved using React.js and Material-UI.
                     </p>
                 </section>
             </div>
