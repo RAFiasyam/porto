@@ -18,9 +18,9 @@ export class Co3 extends Component {
                 </section>
                 <section className="w-[610px] h-fit xl:w-[500px] sm:w-[410px]">
                     <p className="text-[#94a1b2] text-justify text-[20px] sm:text-[18px]">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                        Temporibus quibusdam quaerat quos corrupti perferendis aperiam accusantium officiis magnam inventore,
-                        tempora deleniti esse nostrum voluptatum. Numquam voluptate labore dolores laudantium eos.
+                        Prognosis is a website that our team developed during the IDN IT Fest 2022 competition at IDN Boarding School Jonggol.
+                        We utilized HTML and JavaScript to construct the website over a period of approximately 2-3 weeks. I am delighted to share that we secured 3rd place in this competition.
+                        It was also my first national competition experience while studying at IDN Boarding School Solo.
                     </p>
                 </section>
             </div>

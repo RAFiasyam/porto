@@ -18,9 +18,9 @@ export class Co4 extends Component {
                 </section>
                 <section className="w-[610px] h-fit xl:w-[500px] sm:w-[410px]">
                     <p className="text-[#94a1b2] text-justify text-[20px] sm:text-[18px]">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                        Temporibus quibusdam quaerat quos corrupti perferendis aperiam accusantium officiis magnam inventore,
-                        tempora deleniti esse nostrum voluptatum. Numquam voluptate labore dolores laudantium eos.
+                        This Mini Profile was a fun side project I embarked on during some downtime at work. 
+                        After completing my task list, I was encouraged to take a break, which led me to create this small project. 
+                        To my surprise, it turned out quite well, so I decided to include it in my web portfolio. The website was built using React.js and Tailwind CSS.
                     </p>
                 </section>
             </div>
