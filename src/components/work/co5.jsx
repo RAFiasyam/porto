@@ -14,7 +14,7 @@ export class Co5 extends Component {
                     <p className="text-[24px] font-bold">05</p>
                 </section>
                 <section className="transform w-[610px] h-fit transition duration-500 hover:none md:hover:scale-125 xl:w-[500px] sm:w-[410px]">
-                    <img src="images/work/Work 5.png" alt="" />
+                    <img src="images/work/Work5.png" alt="" />
                 </section>
                 <section className="w-[610px] h-fit xl:w-[500px] sm:w-[410px]">
                     <p className="text-[#94a1b2] text-justify text-[20px] sm:text-[18px]">
